@@ -32,4 +32,5 @@ st.text_input(label="", placeholder="Add new todo...",
               on_change=add_todo, key="new_todo"
               )
 
-st.session_state  # to check the dic type value for each key in for-loop list
+# to check the dic type value for each key in for-loop list
+# st.session_state
